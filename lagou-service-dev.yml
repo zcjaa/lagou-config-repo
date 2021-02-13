@@ -22,6 +22,6 @@ spring:
         physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
 lagou:
   ip:
-    second: 10
-    count:  5
+    second: 60
+    count:  100
   
