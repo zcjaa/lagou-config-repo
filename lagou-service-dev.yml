@@ -23,5 +23,5 @@ spring:
 lagou:
   ip:
     second: 60
-    count:  100
+    count:  5
   
